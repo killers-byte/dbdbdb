@@ -143,3 +143,4 @@ Segala bentuk kontribusi, ide, atau laporan celah dapat disampaikan langsung kep
 
 Sekarang, kendalikan dunia digital Anda.
 BIN AI – Kecerdasan Tanpa Batas, Senjata Tanpa Ampun. 😈🔥
+'''

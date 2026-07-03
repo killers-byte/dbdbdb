@@ -133,7 +133,7 @@ Tidak ada jaminan – gunakan dengan risiko sendiri.
 └── README.md               # Anda di sini
 ```
 
----
+```
 🤝 Kontribusi
 
 Proyek ini milik pribadi BIN Intelligence.
@@ -141,4 +141,4 @@ Segala bentuk kontribusi, ide, atau laporan celah dapat disampaikan langsung kep
 
 Sekarang, kendalikan dunia digital Anda.
 BIN AI – Kecerdasan Tanpa Batas, Senjata Tanpa Ampun. 😈🔥
-'''
+```

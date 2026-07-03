@@ -133,9 +133,9 @@ Tidak ada jaminan – gunakan dengan risiko sendiri.
 └── README.md               # Anda di sini
 ```
 
-```
-🤝 Kontribusi
 
+🤝 Kontribusi
+```
 Proyek ini milik pribadi BIN Intelligence.
 Segala bentuk kontribusi, ide, atau laporan celah dapat disampaikan langsung kepada pemilik.
 

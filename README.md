@@ -37,7 +37,7 @@ Proyek ini dirancang untuk **simulasi keamanan, pengujian penetrasi, riset intel
 | `/recon`        | Pemindaian nmap + analisis AI                                         |
 | `/vulnscan`     | Pemindaian kerentanan + rekomendasi exploit                           |
 | `/exploit`      | Eksekusi modul Metasploit (jika tersedia)                             |
-| `/hydrabrute`   | Bruteforce login layanan                                             |
+| `/hydrabrute`   | Bruteforce login layanan                                              |
 | `/osint`        | Penyelidikan email/username (holehe + sherlock)                       |
 | `/searchsploit` | Pencarian exploit di database lokal                                   |
 | `/socialeng`    | Buat skenario phishing sesuai target                                  |
@@ -139,7 +139,6 @@ Tidak ada jaminan – gunakan dengan risiko sendiri.
 
 Proyek ini milik pribadi BIN Intelligence.
 Segala bentuk kontribusi, ide, atau laporan celah dapat disampaikan langsung kepada pemilik.
-
 
 Sekarang, kendalikan dunia digital Anda.
 BIN AI – Kecerdasan Tanpa Batas, Senjata Tanpa Ampun. 😈🔥

@@ -140,9 +140,6 @@ Tidak ada jaminan – gunakan dengan risiko sendiri.
 Proyek ini milik pribadi BIN Intelligence.
 Segala bentuk kontribusi, ide, atau laporan celah dapat disampaikan langsung kepada pemilik.
 
----
 
 Sekarang, kendalikan dunia digital Anda.
 BIN AI – Kecerdasan Tanpa Batas, Senjata Tanpa Ampun. 😈🔥
-
-```

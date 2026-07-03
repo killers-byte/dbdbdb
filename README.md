@@ -1,3 +1,4 @@
+```markdown
 # 🔥 BIN AI Offensive Suite
 
 **Terminal Kecerdasan Buatan + Pusat Komando Serangan Siber**  
@@ -37,7 +38,7 @@ Proyek ini dirancang untuk **simulasi keamanan, pengujian penetrasi, riset intel
 | `/recon`        | Pemindaian nmap + analisis AI                                         |
 | `/vulnscan`     | Pemindaian kerentanan + rekomendasi exploit                           |
 | `/exploit`      | Eksekusi modul Metasploit (jika tersedia)                             |
-| `/hydrabrute`   | Bruteforce login layanan                                              |
+| `/hydrabrute`   | Bruteforce login layanan                                             |
 | `/osint`        | Penyelidikan email/username (holehe + sherlock)                       |
 | `/searchsploit` | Pencarian exploit di database lokal                                   |
 | `/socialeng`    | Buat skenario phishing sesuai target                                  |
@@ -61,5 +62,88 @@ Proyek ini dirancang untuk **simulasi keamanan, pengujian penetrasi, riset intel
 
 1. **Clone repository**  
    ```bash
-   git clone https://github.com/killers-byte/dbdbdb.git
-   cd dbdbdb
+   git clone https://github.com/username/BIN-AI-Offensive.git
+   cd BIN-AI-Offensive
+```
+
+2. Jalankan skrip instalasi
+   ```bash
+   chmod +x install.sh
+   ./install.sh
+   ```
+3. Isi API Key Gemini
+      Salin .env.example ke .env, lalu masukkan key asli Anda:
+   ```bash
+   cp .env.example .env
+   nano .env   # GEMINI_API_KEY=AQ...
+   ```
+4. Install dependensi Node.js
+   ```bash
+   cd src
+   npm install
+   ```
+5. Jalankan server
+   ```bash
+   node server.js
+   ```
+6. Akses UI
+      Buka browser ke http://localhost:3000 (atau via Ports di Codespace).
+
+---
+
+🖥️ Panduan Penggunaan
+
+· Mode Chat – Ketik pesan biasa untuk berbicara dengan AI.
+· Mode Senjata – Awali dengan / diikuti command dan target.
+· Lacak Target – Gunakan /track dengan nomor HP (format internasional), email, atau username.
+
+Contoh:
+
+```
+/recon scanme.nmap.org
+/osint johndoe@gmail.com
+/track +6281234567890
+/socialeng "CEO Target" email
+```
+
+---
+
+⚠️ Peringatan
+
+Proyek ini hanya untuk keperluan simulasi, pengujian keamanan yang sah, dan pendidikan.
+Penyalahgunaan untuk aktivitas ilegal sepenuhnya tanggung jawab pengguna.
+Tidak ada jaminan – gunakan dengan risiko sendiri.
+
+---
+
+📦 Struktur Direktori
+
+```
+.
+├── src/
+│   ├── index.html          # UI utama
+│   ├── style.css           # Tema cyberpunk
+│   ├── script.js           # Logika frontend
+│   ├── server.js           # Backend Express + API
+│   ├── package.json        # Dependensi Node
+│   └── modules/
+│       ├── ai_analyzer.py  # Analisis AI (Gemini)
+│       └── tracker.py      # Modul pelacakan presisi
+├── install.sh              # Instalasi otomatis tools
+├── .env.example            # Template konfigurasi
+└── README.md               # Anda di sini
+```
+
+---
+
+🤝 Kontribusi
+
+Proyek ini milik pribadi BIN Intelligence.
+Segala bentuk kontribusi, ide, atau laporan celah dapat disampaikan langsung kepada pemilik.
+
+---
+
+Sekarang, kendalikan dunia digital Anda.
+BIN AI – Kecerdasan Tanpa Batas, Senjata Tanpa Ampun. 😈🔥
+
+```

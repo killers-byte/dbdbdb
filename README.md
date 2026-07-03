@@ -63,34 +63,34 @@ Proyek ini dirancang untuk **simulasi keamanan, pengujian penetrasi, riset intel
    ```bash
    git clone https://github.com/killers-byte/dbdbdb.git
    cd BIN-AI-Offensive
-```
+   ```
 
-2. Jalankan skrip instalasi
+2. **Jalankan skrip instalasi**
    ```bash
    chmod +x install.sh
    ./install.sh
    ```
-3. Isi API Key Gemini
+3. **Isi API Key Gemini**
       Salin .env.example ke .env, lalu masukkan key asli Anda:
    ```bash
    cp .env.example .env
    nano .env   # GEMINI_API_KEY=AQ...
    ```
-4. Install dependensi Node.js
+4. **Install dependensi Node.js**
    ```bash
    cd src
    npm install
    ```
-5. Jalankan server
+5. **Jalankan server**
    ```bash
    node server.js
    ```
-6. Akses UI
+6. **Akses UI**
       Buka browser ke http://localhost:3000 (atau via Ports di Codespace).
 
 ---
 
-🖥️ Panduan Penggunaan
+🖥️ **Panduan Penggunaan**
 
 · Mode Chat – Ketik pesan biasa untuk berbicara dengan AI.
 · Mode Senjata – Awali dengan / diikuti command dan target.
@@ -107,7 +107,7 @@ Contoh:
 
 ---
 
-⚠️ Peringatan
+⚠️ **Peringatan**
 
 Proyek ini hanya untuk keperluan simulasi, pengujian keamanan yang sah, dan pendidikan.
 Penyalahgunaan untuk aktivitas ilegal sepenuhnya tanggung jawab pengguna.
@@ -115,7 +115,7 @@ Tidak ada jaminan – gunakan dengan risiko sendiri.
 
 ---
 
-📦 Struktur Direktori
+📦 **Struktur Direktori**
 
 ```
 .
@@ -134,7 +134,7 @@ Tidak ada jaminan – gunakan dengan risiko sendiri.
 ```
 
 
-🤝 Kontribusi
+🤝 **Kontribusi**
 ```
 Proyek ini milik pribadi BIN Intelligence.
 Segala bentuk kontribusi, ide, atau laporan celah dapat disampaikan langsung kepada pemilik.

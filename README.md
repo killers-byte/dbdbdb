@@ -1,4 +1,3 @@
-```markdown
 # 🔥 BIN AI Offensive Suite
 
 **Terminal Kecerdasan Buatan + Pusat Komando Serangan Siber**  

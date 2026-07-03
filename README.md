@@ -31,7 +31,6 @@ Proyek ini dirancang untuk **simulasi keamanan, pengujian penetrasi, riset intel
 
 ## 📋 Daftar Command
 
-| ----------------|-----------------------------------------------------------------------|
 | Command         | Fungsi                                                                |
 |-----------------|-----------------------------------------------------------------------|
 | `/help`         | Tampilkan semua command                                               |

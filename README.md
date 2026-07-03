@@ -61,5 +61,5 @@ Proyek ini dirancang untuk **simulasi keamanan, pengujian penetrasi, riset intel
 
 1. **Clone repository**  
    ```bash
-   git clone https://github.com/username/BIN-AI-Offensive.git
-   cd BIN-AI-Offensive
+   git clone https://github.com/killers-byte/dbdbdb.git
+   cd dbdbdb
